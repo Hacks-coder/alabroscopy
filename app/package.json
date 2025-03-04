@@ -52,6 +52,7 @@
 	},
 	"dependencies": {
 		"@fontsource-variable/roboto": "^5.2.5",
-		"@fontsource/konkhmer-sleokchher": "^5.2.5"
+		"@fontsource/konkhmer-sleokchher": "^5.2.5",
+		"@fontsource/krona-one": "^5.2.5"
 	}
 }

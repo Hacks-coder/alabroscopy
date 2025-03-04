@@ -6,10 +6,13 @@
     /* fonts */
     --font-title: 'Konkhmer Sleokchher', system-ui;
     --font-main: 'Roboto Variable', sans-serif;
+    --font-big: 'Krona One', sans-serif;
 
     /* colors */
     --color-seaBlue: #003CC5;
     --color-black: #000000;
     --color-white: #FFFFFF;
     --color-lowWhite: #F7F7F7;
+    --color-pink: #C837AB;
+    --color-darkBlue: #030536;
 }
