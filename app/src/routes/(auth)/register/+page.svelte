@@ -26,7 +26,7 @@
                     <Small text = "Forgot password?" />
                     <a href="/login" class="text-seaBlue">Login</a>
                 </div>
-                <button class="w-80 h-13 text-white font-bold bg-seaBlue rounded-md @md:w-100 @xl:w-80 @2xl:w-100 @4xl:w-120">Register</button>
+                <button class="w-80 h-13 text-white font-bold bg-seaBlue rounded-md @md:w-100 @xl:w-80 @2xl:w-100 @4xl:w-120"><a href="/login">Register</a></button>
             </form>
         </div>
 </section>
