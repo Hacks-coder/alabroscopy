@@ -6,4 +6,3 @@ import Hero from '../../components/staticDirs/Hero.svelte';
 </script>
 <Hero />
 {@render children()}
-<Footer />
